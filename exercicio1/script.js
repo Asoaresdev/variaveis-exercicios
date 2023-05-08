@@ -7,3 +7,5 @@ console.log(typeof nome);
 console.log(typeof idade);
 
 console.log("olá,", nome, "você tem", idade, "anos");
+
+console.log("testando alterações na mesma branch")
